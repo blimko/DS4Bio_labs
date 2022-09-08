@@ -1,0 +1,15 @@
+==> Buzzard2015_data.csv <==
+age,plot,genus,species,spcode,Abund.n,biomass,basal.area,SLA,LDMC,LPC,CN,d15N,d13C,plot total abund,total plot biomass,total plot basal area
+10,1,Byrsonima,crassifolia,Byrcra,57,1205.364427,3978.387,62.09219184,0.447038449,0.043918846,45.42962045,-0.360118799,-27.59379082,108,7127.043394,16424.45438
+
+==> Gesquiere2011_data.csv <==
+maleID	GC	T
+1	66.9	64.57
+
+==> Pacifici2013_data.csv <==
+TaxID;Order;Family;Genus;Scientific_name;AdultBodyMass_g;Sources_AdultBodyMass;Max_longevity_d;Sources_Max_longevity;Rspan_d;AFR_d;Data_AFR;Calculated_GL_d;GenerationLength_d;Sources_GL
+7580;Rodentia;Cricetidae;Eligmodontia;Eligmodontia typus;17.37;PanTHERIA;292;PanTHERIA;254.64;73.74;calculated;147.5856;147.5856;Rspan-AFR(SM+Gest)
+
+==> headers.csv <==
+==> Buzzard2015_data.csv <==
+age,plot,genus,species,spcode,Abund.n,biomass,basal.area,SLA,LDMC,LPC,CN,d15N,d13C,plot total abund,total plot biomass,total plot basal area

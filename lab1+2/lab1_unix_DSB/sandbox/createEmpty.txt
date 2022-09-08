@@ -1,0 +1,5 @@
+copyThisFolder/
+createEmpty.txt
+test.csv
+underscore_is_preferred/
+unix names should not contain spaces/
